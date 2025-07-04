@@ -75,7 +75,8 @@ total = amount + (amount * tax / 100)
 ---
 ###  Tech Stack
 
-Python 3.8+
+Python 3.13.1
+
 Django
 
 Django REST Framework
